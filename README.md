@@ -1,1 +1,1 @@
-# KNN Python using Jupyter Notebook
+# K-Nearest Neighbors Python using Jupyter Notebook
